@@ -9,4 +9,10 @@ function greet() {
 
     console.log(msg); // accessible here
 
+    function anotherFunction() {
+     var msg ="good after noon"
+        console.log(msg);
+    }
+    anotherFunction();
+
 }

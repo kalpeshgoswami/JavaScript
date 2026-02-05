@@ -1,0 +1,17 @@
+#carForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #000;
+    padding: 8px;
+}
